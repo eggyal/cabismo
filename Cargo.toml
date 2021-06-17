@@ -1,0 +1,12 @@
+[package]
+name = "cabismo"
+version = "0.0.0"
+authors = ["Alan Egerton <eggyal@gmail.com>"]
+edition = "2018"
+description = "Hierarchical data for Diesel."
+repository = "https://github.com/eggyal/cabismo"
+license = "Apache-2.0"
+keywords = ["hierarchical", "tree", "graph", "ORM", "relational"]
+categories = ["database", "data-structures"]
+
+[dependencies]
